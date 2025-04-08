@@ -99,7 +99,7 @@ const EventDetailsPage = () => {
         {/* Event banner */}
         <div className="relative w-full rounded-lg overflow-hidden aspect-[21/9] mb-6 md:mb-8">
           <img
-            src={event.bannerImage || "https://images.unsplash.com/photo-1492684223066-81342ee5ff30"}
+            src={event.bannerImage || "xhttps://images.unsplash.com/photo-1544531586-fde5298cdd40"}
             alt={event.title}
             className="w-full h-full object-cover"
           />

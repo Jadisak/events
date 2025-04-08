@@ -48,10 +48,11 @@ const EventsPage = () => {
                   hasTicket={userEventIds.has(event.id)}
                   customImage={
                     event.title.includes("Business Leadership Summit") 
-                      ? "https://images.unsplash.com/photo-1733417401315-e74b5c3c14ef?q=80&w=2572&auto=format&fit=crop"
+                      ? "https://images.unsplash.com/photo-1733417401315-e74b5c3c14ef"
                       : undefined
                   }
                 />
+                // 
               ))}
             </div>
           ) : (

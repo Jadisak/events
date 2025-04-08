@@ -51,7 +51,7 @@ export const mockEvents: Event[] = [
     endDate: "2025-08-11T17:00:00Z",
     location: "Grand Hotel Conference Center, New York",
     organizerId: "user1",
-    bannerImage: "https://images.unsplash.com/photo-1591115765373-5207764f72e4?q=80&w=2070&auto=format&fit=crop",
+    bannerImage: "https://images.unsplash.com/photo-1544531586-fde5298cdd40",
   },
   {
     id: "event4",
@@ -61,7 +61,7 @@ export const mockEvents: Event[] = [
     endDate: "",
     location: "ห้องประชุมโรงแรมแกรนด์, กรุงเทพฯ",
     organizerId: "user1",
-    bannerImage: "https://images.unsplash.com/photo-1713946598186-8e28275719b9?q=80&w=1032&auto=format&fit=crop",
+    bannerImage: "https://images.unsplash.com/photo-1713946598186-8e28275719b9",
   },
 ];
 
@@ -125,7 +125,7 @@ export const mockResources: EventResource[] = [
     type: "map",
     title: "Venue Map",
     description: "Interactive map of the conference venue.",
-    url: "https://images.unsplash.com/photo-1562214286-de5e7c448c1b?q=80&w=1974&auto=format&fit=crop",
+    url: "xhttps://images.unsplash.com/photo-1722392493604-7382c3d0f646?w=900&auto=format&fit=crop",
   },
   {
     id: "resource5",
