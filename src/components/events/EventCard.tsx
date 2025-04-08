@@ -14,7 +14,7 @@ interface EventCardProps {
 
 const EventCard = ({ event, hasTicket = false, customImage }: EventCardProps) => {
   // Use customImage if provided, otherwise fall back to event.bannerImage or the default image
-  const imageUrl = customImage || event.bannerImage || "xhttps://images.unsplash.com/photo-1492684223066-81342ee5ff30";
+  const imageUrl = customImage || event.bannerImage || "httpsxx://images.unsplash.com/photo-1492684223066-81342ee5ff30";
   
   return (
     <Card className="overflow-hidden transition-all duration-300 hover:shadow-lg animate-fade-in">
