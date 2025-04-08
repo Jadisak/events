@@ -25,11 +25,11 @@ export const mockUsers: User[] = [
 export const mockEvents: Event[] = [
   {
     id: "event1",
-    title: "Annual Tech Conference 2025",
-    description: "Join us for the biggest tech conference of the year with speakers from around the world discussing the latest innovations and trends.",
-    startDate: "2025-06-15T09:00:00Z",
-    endDate: "2025-06-17T18:00:00Z",
-    location: "Tech Convention Center, San Francisco",
+    title: "พบกับเทพยุทธ์แห่งปี",
+    description: "สัมมนาเทคโนโลยีที่รวมผู้เชี่ยวชาญจากทั่วโลกเพื่อแบ่งปันความรู้และประสบการณ์ในวงการประกันชีวิต",
+    startDate: "2025-06-15T12:00:00Z",
+    endDate: "",
+    location: "ห้องประชุมใหญ่, กรุงเทพฯ",
     organizerId: "user1",
     bannerImage: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=2070&auto=format&fit=crop",
   },
@@ -73,7 +73,7 @@ export const mockTickets: Ticket[] = [
     ticketType: "VIP",
     qrCode: "qr-code-ticket1-user2-event1",
     isUsed: false,
-    issuedAt: "2025-04-01T10:23:00Z",
+    issuedAt: "2025-06-15T12:00:00Z",
   },
   {
     id: "ticket2",
