@@ -54,14 +54,14 @@ export const mockEvents: Event[] = [
     bannerImage: "https://images.unsplash.com/photo-1591115765373-5207764f72e4?q=80&w=2070&auto=format&fit=crop",
   },
   {
-    id: "eventภ",
-    title: "งานสัมมนาผู้นำธุรกิจ",
-    description: "Connect with industry leaders and learn from their experiences in this exclusive summit focused on business growth and leadership.",
-    startDate: "2025-08-10T08:30:00Z",
-    endDate: "2025-08-11T17:00:00Z",
-    location: "Grand Hotel Conference Center, New York",
+    id: "event4",
+    title: "สัมมนาผู้นำหน่วย 2025",
+    description: "สัมมนาผู้นำหน่วยที่มุ่งเน้นการพัฒนาทักษะการเป็นผู้นำและการสร้างทีมงานที่มีประสิทธิภาพ",
+    startDate: "2025-05-10T14:00:00Z",
+    endDate: "",
+    location: "ห้องประชุมโรงแรมแกรนด์, กรุงเทพฯ",
     organizerId: "user1",
-    bannerImage: "https://images.unsplash.com/photo-1733417401315-e74b5c3c14ef?q=80&w=2572&auto=format&fit=crop",
+    bannerImage: "https://images.unsplash.com/photo-1713946598186-8e28275719b9?q=80&w=1032&auto=format&fit=crop",
   },
 ];
 
